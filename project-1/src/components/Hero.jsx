@@ -8,7 +8,7 @@ const HeroSection = () => {
                 </p>
                 <div className="hero-btn">
                 <button>Shop Now</button>
-                <button className="secondary-btn">Category</button>
+                <button classNameyy="secondary-btn">Category</button>
                 </div>
 
                 <div className="shopping">
